@@ -4,9 +4,13 @@
 }
 body{
     font-family: 'poppins',sans-serif;
+    background-image: url(download\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .navbar{
     display: flex;
+    background-color:white;
     justify-content: space-between;
     align-items: center;
     padding: 10px;
